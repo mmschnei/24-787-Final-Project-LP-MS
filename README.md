@@ -1,5 +1,6 @@
 # 24-787-Final-Project-LP-MS
 Final Project Code for Lauren Parola &amp; Mikayla Schneider for 24-787
+
 --Data_Processing_Walking_Events.py--
 This script contains the intial steps of syncing, filtering, and aligning the data from right and left thigh and shank IMUS. 
 Then the periods of walking are identified, extracted as new "subjects", and exported to Excel to calculate features. 
